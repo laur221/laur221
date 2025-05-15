@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![reaching out](https://github.com/user-attachments/assets/6a9c9d14-9027-4fa7-b670-a6c23d17e70f)
+
 <!--
 **laur221/laur221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
