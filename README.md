@@ -1,4 +1,4 @@
-![reaching out](https://github.com/user-attachments/assets/6a9c9d14-9027-4fa7-b670-a6c23d17e70f)
+![reaching out (1)](https://github.com/user-attachments/assets/c1cb28b4-bd80-42c7-8126-735fa3336412)
 
 <!--
 **laur221/laur221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
