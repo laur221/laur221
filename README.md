@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![reaching out](https://github.com/user-attachments/assets/6a9c9d14-9027-4fa7-b670-a6c23d17e70f)
 
 <!--
