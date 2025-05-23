@@ -24,7 +24,9 @@
 <a href="https://codepen.io/pinzaru-laurentiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pinzaru-laurentiu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pînzaru laurențiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pînzaru laurențiu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/pînzaru-laurentiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pînzaru-laurentiu" height="30" width="40" /></a>
+<a href="https://codesandbox.com/kridderurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kridderurt" height="30" width="40" /></a>
 <a href="https://instagram.com/laurpinzaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laurpinzaru" height="30" width="40" /></a>
+<a href="https://medium.com/@pinzarul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pinzarul" height="30" width="40" /></a>
 </p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=laur221&show_icons=true&theme=dark&hide_border=true&locale=en" alt="laur221" /></p>
