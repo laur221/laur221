@@ -29,28 +29,18 @@
 <a href="https://medium.com/@pinzarul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pinzarul" height="30" width="40" /></a>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=laur221&show_icons=true&theme=dark&hide_border=true&locale=en" alt="laur221" /></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Maple+Mono&pause=1000&color=E4E4E4&repeat=true&random=false&width=436&lines=GitHub+Stats%3A)](https://git.io/typing-svg)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=laur221&theme=dark&hide_border=true&" alt="laur221" /></p>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=laur221&show_icons=true&theme=dark&hide_border=true" alt="laur221" />
+ <img src="https://streak-stats.demolab.com?user=laur221&theme=dark&hide_border=true" alt="laur221" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laur221&show_icons=true&theme=dark&hide_border=true&layout=compact" alt="laur221" />
+</p>
 
-<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laur221&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="laur221" /></p>
+---
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Maple+Mono&pause=1000&color=E4E4E4&repeat=true&random=false&width=436&lines=Contribution+Graph%3A)](https://git.io/typing-svg)
 
+[![Laurentiu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=laur221&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
-
-<!--
-**laur221/laur221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
