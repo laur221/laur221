@@ -30,11 +30,12 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Maple+Mono&pause=1000&color=E4E4E4&repeat=true&random=false&width=436&lines=GitHub+Stats%3A)](https://git.io/typing-svg)
-
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laur221&show_icons=true&theme=dark&hide_border=true&layout=compact" alt="laur221" />
+</p>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=laur221&show_icons=true&theme=dark&hide_border=true" alt="laur221" />
  <img src="https://github-readme-streak-stats.herokuapp.com?user=laur221&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="laur221" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laur221&show_icons=true&theme=dark&hide_border=true&layout=compact" alt="laur221" />
 </p>
 
 ---
