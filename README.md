@@ -1,5 +1,4 @@
-![output-onlinegiftools](https://github.com/user-attachments/assets/4f53feaf-47fd-4112-a8c2-edba8dde5e4f)
-
+![GIT5](https://github.com/user-attachments/assets/2ccbf76f-7e8c-4551-bd19-c164f2f4e882)
 
 
 <h1 align="center">Hi 👋, I'm Laurentiu</h1>
