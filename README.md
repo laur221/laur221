@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Laurentiu</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=laur221&no-frame=true&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=laur221&no-frame=true&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Maple+Mono&pause=1000&color=E4E4E4&repeat=true&random=false&width=436&lines=About+Me%3A)](https://git.io/typing-svg)
 
